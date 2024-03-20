@@ -1,9 +1,9 @@
 - 👋 Hi, I’m ismoiljon
 - 👀 I’m interested in Trayding
 - 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on Avex
-- 📫 How to reach me other 
-- 😄 Pronouns: it progarammer
+- 💞️ I’m looking to collaborate with my friends
+- 📫 How to reach me Software Engeener
+- 😄 Pronouns: Not me
 - ⚡ Fun fact: Never give up
 
 <!---
